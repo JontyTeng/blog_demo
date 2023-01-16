@@ -1,11 +1,12 @@
 # springboot+vue个人博客系统
-
+需要部署联系 qq：616342388
 #### 介绍
 基于springboot+vue个人博客系统
 
 #### 在线地址
 
 项目链接：http://www.yruochen.xyz/
+
          http://www.admin.yruochen.xyz/login
 
 
