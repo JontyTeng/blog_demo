@@ -5,7 +5,8 @@
 
 #### 在线地址
 
-项目链接：http://8.130.109.81/
+项目链接：http://www.yruochen.xyz/
+         http://www.admin.yruochen.xyz/login
 
 
 #### 目录结构
@@ -55,7 +56,7 @@ blog-springboot
 后台管理支持修改背景图片，博客配置等信息，操作简单，支持上传相册。
 代码支持多种搜索模式（Elasticsearch或MYSQL），支持多种上传模式（OSS或本地），可支持配置。
 代码遵循阿里巴巴开发规范，利于开发者学习。
-
+![输入图片说明](image.png)
 #### 技术介绍
 
 前端   vue + vuex + vue-router + axios + vuetify + element + echarts
