@@ -6,8 +6,7 @@
 #### 在线地址
 
 项目链接：http://www.yruochen.xyz/
-
-         http://www.admin.yruochen.xyz/login
+http://www.admin.yruochen.xyz/login
 
 
 #### 目录结构
