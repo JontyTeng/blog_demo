@@ -1,5 +1,5 @@
 # springboot+vue个人博客系统
-需要部署联系 qq：616342388
+
 #### 介绍
 基于springboot+vue个人博客系统
 
